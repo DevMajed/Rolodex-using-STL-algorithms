@@ -1,6 +1,6 @@
 # Rolodex
 
-The point of this project is to build an information manager similar to a rolodex, based on STL libarary in C++. \
+The point of this project is to build an information manager similar to a Rolodex, based on STL library in C++. \
 see http://en.wikipedia.org/wiki/Rolodex). 
 
 A physical rolodex is made up of cards arranged in alphabetical order by [Last Name, First Name]. Each card contains some information, usually name, address, phone number and type of business (why the person is in the rolodex). The physical mechanism of using a rolodex is turning the group of cards and flipping through them. When the last card is read, the rolodex is then at the start of the list since a rolodex is built on a circular track. 
