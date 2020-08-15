@@ -1,7 +1,9 @@
-# Objeact Oreanted Programing using C++
+# Rolodex
 
-Here i share some of the assignments and projects that i did for my C++ programing class during my undergrad study
+The point of this project is to build an information manager similar to a rolodex, based on STL libarary in C++. \
+see http://en.wikipedia.org/wiki/Rolodex). 
 
-![d3y0i7e-c1ee111a-4413-429c-b811-8861c4877ba6](https://user-images.githubusercontent.com/66625688/84724974-836a0380-af57-11ea-989f-d9d18e443b72.jpg)
+A physical rolodex is made up of cards arranged in alphabetical order by [Last Name, First Name]. Each card contains some information, usually name, address, phone number and type of business (why the person is in the rolodex). The physical mechanism of using a rolodex is turning the group of cards and flipping through them. When the last card is read, the rolodex is then at the start of the list since a rolodex is built on a circular track. 
 
- 
+For this project you'll implement a Card class (in Card.h and Card.cpp), a Rolodex class (in Rolodex.h and Rolodex.cpp), and a main() function (in main.cpp). \
+The code in main() reads interactive commands that perform actions on its Rolodex object (like add a card, search for a card, list the rolodex cards, etc).
