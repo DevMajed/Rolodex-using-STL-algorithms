@@ -1,0 +1,6 @@
+﻿  Rolodex.cpp
+C:\Users\majed\Desktop\Final Project\Rolodex.cpp(15,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\majed\Desktop\Final Project\Rolodex.cpp(15,40): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Final Project.vcxproj -> C:\Users\majed\Desktop\Final Project\Debug\Final Project.exe
